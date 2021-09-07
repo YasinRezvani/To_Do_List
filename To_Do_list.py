@@ -13,3 +13,25 @@ print(
 list_to_do = []
 
 x = PrettyTable()
+
+
+
+
+
+
+while True:
+    user_input = input("\nWhat do you want to do (add ,update ,delete ,view ,exit): ").lower()
+
+    if user_input == "add":
+        add()
+    elif user_input == "update":
+        update()
+    elif user_input == "delete":
+        delete()
+    elif user_input == "view":
+        view()
+    elif user_input == "exit":
+        exit()
+    else:
+        print("\n--Invalid mode. try again--")
+        continue
