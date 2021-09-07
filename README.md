@@ -8,10 +8,11 @@ $ pip install prettytable
 # How Work  
 This program have 5 mode to edit your to do list and this document show modes:     
 > 1: Enter add : for add new To-Do    
-> 2: Enter update : for update To-Do
-> 3: Enter delete : for delete To-Do
-> 4: Enter view : for view your To-Do
-> 5: Enter exit : for exit the program
+> 2: Enter update : for update To-Do  
+> 3: Enter delete : for delete To-Do  
+> 4: Enter view : for view your To-Do  
+> 5: Enter exit : for exit the program  
+
 # Demo 🎉
 ### add
 ![demo_add](https://user-images.githubusercontent.com/77124662/132337671-a83c8c9f-c447-4b46-877d-aaac6eff7825.PNG)
