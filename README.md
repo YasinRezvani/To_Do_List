@@ -1,5 +1,5 @@
 # To_Do_List
-Simple terminal version of To-Do list show in table 
+Simple CLI To-Do list show in table 
 # Install the requirements
 First you should install the requirements:
 ```
