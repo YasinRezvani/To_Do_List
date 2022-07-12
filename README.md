@@ -3,7 +3,7 @@ Simple CLI To-Do list show in table
 # Install the requirements
 First you should install the requirements:
 ```
-$ pip install prettytable
+pip install prettytable
 ```
 # Demo 🎉
 ### Add
